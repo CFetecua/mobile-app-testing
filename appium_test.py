@@ -27,3 +27,4 @@ Update on 2022-05-23
 Update on 2022-05-24
 Update on 2022-05-30
 Update on 2022-05-31
+Update on 2022-06-02
